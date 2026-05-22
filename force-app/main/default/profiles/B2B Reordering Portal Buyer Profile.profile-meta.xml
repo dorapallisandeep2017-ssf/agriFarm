@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>AgriFarm</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+    <custom>true</custom>
+    <layoutAssignments>
+        <layout>Delivery__c-Delivery Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Order__c-Order Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Requirement__c-Requirement Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Wallet__c-Wallet Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>crop__c-Crop Layout</layout>
+    </layoutAssignments>
+    <userLicense>External Apps Login</userLicense>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>EnableNotifications</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>SelectFilesFromSalesforce</name>
+    </userPermissions>
+</Profile>
