@@ -12,6 +12,11 @@
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <label>AgriFarm</label>
     <navType>Standard</navType>
+    <tabs>crop__c</tabs>
+    <tabs>Agri_Order__c</tabs>
+    <tabs>Wallet__c</tabs>
+    <tabs>Requirement__c</tabs>
+    <tabs>Delivery__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>AgriFarm_UtilityBar</utilityBar>
 </CustomApplication>
